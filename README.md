@@ -1,2 +1,2 @@
 # script_matrix_prtg_powershell
-#[fixnhanh.cloud]([url](https://fixnhanh.cloud/))
+Mọi thông tin hướng dẫn mình sẽ upload lên web: [https://fixnhanh.cloud/](url)
