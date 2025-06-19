@@ -50,8 +50,8 @@ try {
         formatted_body = $htmlBody
     } | ConvertTo-Json -Depth 10
 
-    $url = "https://matrix.org/_matrix/client/r0/rooms/!EcakUJjagHEvHkforE:matrix.org/send/m.room.message"
-    $token = "mat_jyhzGOXHsWuMMdtLob8KoG5cxGkrNY_hOpQ82"
+    $url = "https://matrix.org/_matrix/client/r0/rooms/!vQdUVTmHCrCpJjWxwR:team.longvan.vn/send/m.room.message"
+    $token = "syt_MjAuMTM0OTU4LjE0MDM_HdsysghDFQROFUANJRnh_3gu41P"
 
     $headers = @{
         "Authorization" = "Bearer $token"
