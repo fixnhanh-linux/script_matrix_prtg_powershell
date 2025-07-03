@@ -34,7 +34,7 @@ Tự động gửi thông báo khi thiết bị hoặc sensor trong PRTG gặp s
 
 ```
 .
-├── send.ps1        # Script gửi cảnh báo
+├── Script_Matrix_Prtg.ps1        # Script gửi cảnh báo
 └── README.md       # Tài liệu hướng dẫn
 ```
 
