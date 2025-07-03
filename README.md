@@ -23,8 +23,8 @@ Tự động gửi thông báo khi thiết bị hoặc sensor trong PRTG gặp s
 
 | Thành phần | Phiên bản đề xuất |
 |-----------|------------------|
-| PRTG      | 22.x trở lên     |
-| PowerShell | ≥ 5.1           |
+| PRTG      | All Version     |
+| PowerShell | All Version           |
 | Matrix API | r0 (Synapse/Element) |
 | Hệ điều hành | Windows (PRTG Server) |
 
