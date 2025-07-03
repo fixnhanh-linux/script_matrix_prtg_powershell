@@ -84,7 +84,7 @@ Thay `roomID` và `token` tương ứng.
   - Parameters:
 
 ```
-"%device" "%name" "%status" "%datetime" "%lastvalue" "%lastmessage" "%probe" "%group" "%lastcheck" "%lastup" "%lastdown" "%uptime" "%downtime" "%cumsince" "%location" %message
+"%device" "%name" "%status" "%datetime" "%lastvalue" "%lastmessage" "%probe" "%group" "%lastcheck" "%lastup" "%lastdown" "%uptime" "%downtime" "%cumsince" "%location" "%message"
 ```
 
 
