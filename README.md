@@ -44,7 +44,7 @@ Tự động gửi thông báo khi thiết bị hoặc sensor trong PRTG gặp s
 
 ### 1. 📥 Tải script
 
-Tải `send.ps1` và lưu vào thư mục PRTG:
+Tải `Script_Matrix_Prtg.ps1` và lưu vào thư mục PRTG:
 
 ```
 C:\Program Files (x86)\PRTG Network Monitor\Notifications\EXE\
@@ -61,9 +61,9 @@ C:\Program Files (x86)\PRTG Network Monitor\Notifications\EXE\
 
 ---
 
-### 3. ⚙️ Cấu hình trong `send.ps1`
+### 3. ⚙️ Cấu hình trong `Script_Matrix_Prtg.ps1`
 
-Mở file `send.ps1`, tìm đến dòng:
+Mở file `Script_Matrix_Prtg.ps1`, tìm đến dòng:
 
 ```powershell
 $url = "https://your.matrix.server/_matrix/client/r0/rooms/!roomID:yourdomain/send/m.room.message"
