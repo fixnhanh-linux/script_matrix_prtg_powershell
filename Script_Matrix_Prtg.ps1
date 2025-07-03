@@ -92,7 +92,7 @@ Message: $message
         formatted_body = $htmlBody
     } | ConvertTo-Json -Depth 10
 
-    $url = "https://team.longvan.vn/_matrix/client/r0/rooms/!vQdUVTmHCrCpJjWxwR:team.longvan.vn/send/m.room.message"
+    $url = "https://team.fixnhanh.cloud/_matrix/client/r0/rooms/!vQdUVTmHCrCpJjWxwR:fixnhanh.cloud/send/m.room.message"
     $token = "syt_MjAuMTM0OTU4LjE0MDM_WaktNVSQFUvllslHnaaj_1iHiE5"
 
     $headers = @{
